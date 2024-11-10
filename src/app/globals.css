@@ -1,0 +1,221 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.copyright {
+    font-size: 13px;
+    text-align: center;
+    margin-right: -1110px;
+    margin-top: 10px;
+    margin-bottom: -10px;
+    opacity: 0.3;
+}
+
+.hr {
+    margin-top: 10px;
+    opacity: 0.1;
+}
+
+.hr2{
+   margin-top: 10px;
+    opacity: 0.1;
+}
+
+.hr3{
+   margin-top: 10px;
+    opacity: 0.1;
+}
+
+.hr4{
+       margin-top: 10px;
+       opacity: 0.1;
+}  
+
+.heading {
+    /* Contact */
+
+width: 222px;
+height: 64px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 64px;
+line-height: 64px;
+padding-top: 250px;
+padding-left: 150px;
+/* identical to box height, or 100% */
+
+color: #BDBDBD;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+
+.head {
+    /* Information */
+
+width: 338px;
+height: 64px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 64px;
+padding-top: 60px;
+padding-left: 150px;
+/* identical to box height, or 100% */
+
+/* Gray 1 */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+
+.company {
+    /* Company Name 1234 Sample Street Austin Texas 76401 */
+
+/* Company Name 1234 Sample Street Austin Texas 76401 */
+
+position: absolute;
+width: 280px;
+height: 46px;
+padding-top: 100px;
+padding-left: 150px;
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+
+color: #333333;
+
+
+}
+
+.parah {
+    /* Company Name 1234 Sample Street Austin Texas 76401 */
+
+/* Company Name 1234 Sample Street Austin Texas 76401 */
+
+position: absolute;
+width: 280px;
+height: 46px;
+padding-top: 125px;
+padding-left: 150px;
+display: inline-block;
+white-space: nowrap;
+
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 140.8%;
+/* or 23px */
+
+color: #333333;
+
+}
+
+.numbers {
+    /* 512.333.2222 */
+
+position: absolute;
+width: 114px;
+height: 21px;
+padding-top: 200px;
+padding-left: 150px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #333333;
+
+
+}
+
+.mail {
+    /* sampleemail@gmail.com */
+
+position: absolute;
+width: 179px;
+height: 19px;
+gap: px;
+padding-top: 285px;
+padding-left: 149px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+/* identical to box height */
+
+color: #333333;
+
+
+}
+
+.click {
+    /* Rectangle 1 */
+
+position: absolute;
+width: 222px;
+height: 71px;
+left: 0px;
+top: 0px;
+margin-top: 670px;
+margin-left: 148px;
+
+/* Gray 1 */
+background: #333333;
+
+}
+
+.centered-button {
+    /* Contact US */
+
+position: absolute;
+width: 93px;
+height: 12px;
+left: 71px;
+top: 30px;
+display: inline-block;
+white-space: nowrap;
+align-items: center;
+justify-content: center;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+letter-spacing: 0.2em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+}
+
